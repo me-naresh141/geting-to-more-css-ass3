@@ -1,0 +1,171 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+.homeHeader {
+  background-color: rgb(245, 142, 160);
+  padding: 15px;
+  text-align: center;
+}
+.homeHeader nav a {
+  font-size: 30px;
+  text-decoration: none;
+  color: blue;
+  padding: 1cm;
+}
+.homeHeadDiv {
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+.HomeMainDiv {
+  text-align: center;
+}
+.imgDiv {
+  width: 100%;
+}
+.sizeImg {
+  width: 100%;
+  object-fit: cover;
+}
+.HomeMainDiv p {
+  margin: 0 auto;
+  width: 410px;
+  line-height: 1.5;
+}
+.readMore {
+  margin-left: 20cm;
+  font-size: 20px;
+}
+.secondImgDiv {
+  text-align: center;
+}
+.secondImgDiv p {
+  width: 410px;
+  margin: 0 auto;
+}
+.heading2 {
+  font-size: 30px;
+}
+h3 {
+  color: blue;
+}
+.more-read{
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+.home-footer {
+  background-color: rgb(132, 13, 243);
+  padding: 1rem;
+}
+.home-footer nav a {
+  font-size: 30px;
+  text-decoration: none;
+}
+.home-footer nav {
+  text-align: center;
+}
+
+/* about page style */
+
+.about-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.about-header {
+  background-color: rgb(245, 142, 160);
+  padding: 15px;
+  text-align: center;
+}
+.about-header nav a {
+  font-size: 30px;
+  color: blue;
+  text-decoration: none;
+  padding: 20px;
+}
+.imgDiv {
+  text-align: center;
+  margin-top: 1cm;
+}
+.about-h1 {
+  text-align: center;
+  color: magenta;
+  font-size: 35px;
+}
+.about-img {
+  width: 100%;
+}
+.about-h2 {
+  color: rgb(23, 23, 228);
+  font-size: 30px;
+}
+
+.about-footer {
+  background-color: rgb(177, 173, 173);
+}
+.about-footer-div {
+  font-size: 20px;
+  text-decoration: none;
+  margin: 1cm;
+  text-align: center;
+  margin: 1cm;
+  padding: 0.5cm;
+}
+.about-footer-div nav a {
+  color: blue;
+  margin: 1cm;
+  text-decoration: none;
+}
+/* blog page style */
+
+.blog-container {
+  width: 50%;
+
+  margin: 0 auto;
+}
+.blog-header {
+  background-color: rgb(245, 142, 160);
+  padding: 15px;
+  text-align: center;
+}
+.blog-header nav a {
+  margin: 1cm;
+  font-size: 30px;
+  text-decoration: none;
+}
+.blog-img-div {
+  text-align: center;
+  margin-top: 1cm;
+  width: 100%;
+}
+.hero-img {
+  width: 100%;
+  object-fit: cover;
+}
+.blog-h1 {
+  margin-left: 3.3cm;
+  font-size: 40px;
+  font-weight: 900;
+  color: #2e3b18;
+  text-align: center;
+}
+p {
+  color: #616010;
+  line-height: 1.5;
+}
+.blog-footer {
+  background-color: #568fba;
+}
+.blog-footer nav a {
+  font-size: 30px;
+  text-decoration: none;
+  margin: 1cm;
+  color: #2e2d05;
+  font-weight: 800;
+}
+.blog-footer nav {
+  text-align: center;
+}
